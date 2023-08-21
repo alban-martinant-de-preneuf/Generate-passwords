@@ -5,10 +5,10 @@ This Python script generates passwords by combining a base word with various pre
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine with `git clone https://github.com/alban-martinant-de-preneuf/Generate-passwords.git`.
 2. Make sure you have Python installed.
 3. Run the script by executing `python generatPwdsFromBase.py`.
-4. Follow the prompts to provide a base word, possible characters/strings for prefixes, possible lengths of prefixes, possible characters/strings for suffixes, and possible lengths of suffixes.
+4. Follow the prompts to provide a base word, possible characters/strings for prefixes and suffixes, the range of possible repetitions for prefix and suffix elements (min, max).
 5. The script will generate variations of passwords using different combinations of prefixes and suffixes and save them to a file.
 
 
